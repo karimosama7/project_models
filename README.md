@@ -3,7 +3,7 @@
 1. **Clone or Download** the repository.
 2. **Open the Notebook**: Load the `Pneumonia.ipynb` notebook in Jupyter.
 3. **Follow the Steps**:
-   - Load the dataset.
+   - Load the dataset link:https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia .
    - Preprocess the data (handling missing values, feature engineering).
    - Train machine learning models and evaluate performance.
 
